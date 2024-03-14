@@ -1,1 +1,1 @@
-Cuelistic : https://twisha-coder.github.io/curlistic/
+Curlistic : https://twisha-coder.github.io/curlistic/
